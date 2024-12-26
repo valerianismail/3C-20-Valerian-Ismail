@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "676c449eeca57abe214eeb87"
+  },
+  "nama_pesawat": "lion",
+  "kode": "2222",
+  "harga": "3450000"
+}]
